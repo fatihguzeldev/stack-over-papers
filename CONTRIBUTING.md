@@ -74,7 +74,9 @@ aşağıdaki şablonu kullanın ve alanları doldurun:
 # makale başlığı
 
 **yazar(lar):**
+
 **yıl:**
+
 **kaynak/link:**
 
 ## özet
