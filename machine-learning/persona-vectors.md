@@ -2,7 +2,6 @@
 
 **yazar(lar):** Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey
 
-
 **yıl:** 2025
 
 **kaynak/link:** [PDF](https://arxiv.org/abs/2507.21509)
