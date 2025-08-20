@@ -11,12 +11,14 @@
 bu makale, dağıtık sistemlerde güvenilmez aktörler (hatalı veya kötü niyetli) varken nasıl karar alınabileceğini inceliyor. temel problem, generallerin bir saldırı planını koordine etmek istemesi ama bazılarının ihanet edebileceği bir ortamda doğru ve tutarlı kararlar almanın yollarını araştırmak. konsept bugün fault-tolerant sistemler ve consensus algoritmalarının temelini oluşturuyor.
 
 ## neden ilginç buldum
-- *distributed systems* ve *fault tolerance* konularının temelini oluşturuyor, anlayışı kökten değiştirdi
-- *consensus* problemini formalize eden ilk çalışmalar arasında
+
+- _distributed systems_ ve _fault tolerance_ konularının temelini oluşturuyor, anlayışı kökten değiştirdi
+- _consensus_ problemini formalize eden ilk çalışmalar arasında
 - klasik "impossible problem" olarak biliniyor, ama çözümü matematiksel ve elegant
-- bugün *blockchain* ve *replicated state machine*'lerin altyapısına direkt ilham verdi
+- bugün _blockchain_ ve _replicated state machine_'lerin altyapısına direkt ilham verdi
 
 ## notlar / ilgili kaynaklar
+
 - paxos ve raft makaleleri bu çalışmanın devamı niteliğinde
 - paxos: konsept olarak müthiş ama implementasyonu zor, Lamport'un matematiği epey sağlam
 - raft: paxos'a göre daha anlaşılır, log replication ve lider seçimi net
