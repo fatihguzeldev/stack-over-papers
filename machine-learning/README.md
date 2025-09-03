@@ -1,5 +1,6 @@
 `machine learning` makaleleri:
 
+- [From Facts & Metrics to Media Machine Learning: Evolving the Data Engineering Function at Netflix](from-facts-and-metrics-to-media-machine-learning.md)
 - [Design Patterns for Securing LLM Agents against Prompt Injections](design-patterns-for-securing-llm-agents-against-prompt-injections.md)
 - [Foundation Model for Personalized Recommendation](foundation-model-for-personalized-recommendation.md)
 - [Self-supervised learning: The dark matter of intelligence](ssl-the-dark-matter-of-intelligence.md)
