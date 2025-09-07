@@ -1,5 +1,6 @@
 `machine learning` makaleleri:
 
+- [Why Language Models Hallucinate](why-language-models-hallucinate.md)
 - [From Facts & Metrics to Media Machine Learning: Evolving the Data Engineering Function at Netflix](from-facts-and-metrics-to-media-machine-learning.md)
 - [Design Patterns for Securing LLM Agents against Prompt Injections](design-patterns-for-securing-llm-agents-against-prompt-injections.md)
 - [Foundation Model for Personalized Recommendation](foundation-model-for-personalized-recommendation.md)
