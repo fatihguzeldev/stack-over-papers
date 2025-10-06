@@ -2,7 +2,7 @@
 
 **yazar(lar)**: Lexi Mattick
 
-**yıl**: 2025
+**yıl**: 2023
 
 **kaynak/link**: [Makale](https://cpu.land)
 
