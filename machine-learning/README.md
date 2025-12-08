@@ -1,5 +1,6 @@
 `machine learning` makaleleri:
 
+- [Denoising Diffusion Probabilistic Models](denoising-diffusion-probabilistic-models.md)
 - [A Neural Probabilistic Language Model](a-neural-probabilistic-language-model.md)
 - [Why Language Models Hallucinate](why-language-models-hallucinate.md)
 - [From Facts & Metrics to Media Machine Learning: Evolving the Data Engineering Function at Netflix](from-facts-and-metrics-to-media-machine-learning.md)
